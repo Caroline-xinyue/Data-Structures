@@ -1,0 +1,126 @@
+/*****************************************************************************
+ * Assignment 3
+ * Name:      Xinyue(Lexie) Zhang
+ * E-mail:    xzhang@brynmawr.edu
+ * Course:    CS 206
+ * Submitted: 9/29/2015
+ * 
+ * The Place class for project 3.
+ *
+ * This program reads the file from "Xinyue_A3.txt" using java.util.Scanner, 
+ * parse the data and save the zipcode, town and states into an array of Place 
+ * objects. Then it asks user for a given zipcode, check its validity, then 
+ * search it inside the Place[] array and returns the location to the user as
+ * well as printing out all the interactions in the Console Output. In addition, * this program compares the time used by linear search and binary search and 
+ * print them out in the console.
+ ******************************************************************************/
+
+/**
+ * Represents a place, including the town and state and its U.S. Postal Zipcode.
+ *
+ * @author Xinyue(Lexie) Zhang (xzhang@brynmawr.edu)
+ *
+ */
+
+public class Place implements Comparable<Place> {
+    //data fields
+    private String zipCode;
+    private String town;
+    private String state;
+
+    //constructor
+    public Place(String zipCode, String town, String state) {
+	this.zipCode = zipCode;
+	this.town = town;
+	this.state = state;
+    }
+
+    //methods
+    /* getters */
+    /** get the private data field -- zipCode.
+     *
+     * @return the U.S. Postal Zipcode
+     */ 
+    public String getZipCode() {
+	return zipCode;
+    }
+    /** get the private data field -- town.
+     *
+     * @return the town that the place is located
+     */
+    public String getTown() {
+	return town;
+    }
+    /** get the private data field -- state.
+     *
+     * @return the state that the place is located
+     */
+    public String getState() {
+	return state;
+    }
+
+    /* setters */
+    /** set the private data field -- zipCode.
+     *
+     * @param zipCode   the new U.S. Postal Zipcode
+     */
+    public void setZipCode(String zipCode) {
+	this.zipCode = zipCode;
+    }
+     /** set the private data field -- town.
+     *
+     * @param town  the new town of the place
+     */
+    public void setTown(String town) {
+	this.town = town;
+    }
+    /** set the private data field -- state.
+     *
+     * @param state  the new state of the place
+     */
+    public void setState(String state) {
+	this.state = state;
+    }
+
+    /** override the toString() method.
+     *
+     * @return a string that shows the town and
+     * state that the place is located
+     */
+    @Override
+    public String toString() {
+	return town + ", " + state;
+    }
+
+    /** compare a given zip code against a place object.
+     *
+     * @param zipCode  the zipCode to compare with
+     * @return a boolean value. Returns true if the zipCode
+     *  matches the zipCode data field of the object, false
+     *  otherwise.
+     */
+    public boolean equals(String zipCode) {
+	if(this.zipCode.equals(zipCode)) {
+	    return true;
+	} else {
+	    return false;
+	}
+    }
+
+    /** Compare the zipCode data field of the current Place object to the zipCode
+     *  data field of the compared Place object. Override the compareTo method of
+     * interface Comparable <Place>
+     *
+     * @param place  the zipCode data field of the Place class to compare with
+     * @return the difference between the zipCode data field of the current Place object
+     *         and the zipCode data field of the compared Place object.
+     */
+    @Override
+    public int compareTo(Place place) {
+	String zip = place.getZipCode();
+	int compareZip = Integer.parseInt(zip);
+	Integer thisZipCode = new Integer(zipCode);
+	Integer compareZipCode = new Integer(compareZip);
+	return thisZipCode.compareTo(compareZipCode);
+    }
+} // end of Place()

@@ -1,0 +1,226 @@
+Part #3:
+
+wc120-dhcp-172:src Xinyue$ javac SearchPlacesBST.java
+wc120-dhcp-172:src Xinyue$ java SearchPlacesBST
+
+There are 30521 entries in the data base.
+The tree height is 45.
+
+1. Cambridge, MA
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Cambridge, MA
+Query: Cambridge, MA
+Found...
+Town: Cambridge, MA owns zipCodes: 02138, 02139, 02140, 02141, 02142, 02238, 02239; has Area Code: 617; and is in Time Zone: Eastern
+It's in County: Middlesex, and has population: 1367000
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 15 comparisons to answer this query
+
+2. Crapo, MD
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Crapo, MD
+Query: Crapo, MD
+Found...
+Town: Crapo, MD owns zipCodes: 21626; has Area Code: 410; and is in Time Zone: Eastern
+It's in County: Dorchester, and has population: 29900
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 29 comparisons to answer this query
+
+3. Boston, MA (My favorite place in the US)
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Boston, MA
+Query: Boston, MA
+Found...
+Town: Boston, MA owns zipCodes: 02100, 02101, 02102, 02103, 02104, 02105, 02106, 02107, 02108, 02109, 02110, 02111, 02112, 02113, 02114, 02115, 02116, 02117, 02123, 02127, 02128, 02133, 02163, 02199, 02201, 02202, 02203, 02204, 02205, 02206, 02207, 02208, 02209, 02210, 02211, 02212, 02215, 02216, 02217, 02222, 02241, 02266, 02293, 02294, 02295, 02297, 02299; has Area Code: 617; and is in Time Zone: Eastern
+It's in County: Suffolk, and has population: 661400
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 16 comparisons to answer this query
+
+4. Bryn Mawr, PA
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Bryn Mawr, PA
+Query: Bryn Mawr, PA
+Found...
+Town: Bryn Mawr, PA owns zipCodes: 19010; has Area Code: 215; and is in Time Zone: Eastern
+It's in County: Delaware, and has population: 560600
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 21 comparisons to answer this query
+
+5. Boring, OR
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Boring, OR
+Query: Boring, OR
+Found...
+Town: Boring, OR owns zipCodes: 97009; has Area Code: 503; and is in Time Zone: Pacific
+It's in County: Clackamas, and has population: 256900
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 24 comparisons to answer this query
+
+6. Hell, MI
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Hell, MI
+Sorry, the town and state you input does not exist.
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 33 comparisons to answer this query
+
+7. Walla Walla, WA
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Walla Walla, WA
+Query: Walla Walla, WA
+Found...
+Town: Walla Walla, WA owns zipCodes: 99362; has Area Code: 509; and is in Time Zone: Pacific
+It's in County: Walla Walla, and has population: 48000
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 30 comparisons to answer this query
+
+8 Surprise, NY
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Surprise, NY
+Query: Surprise, NY
+Found...
+Town: Surprise, NY owns zipCodes: 12176; has Area Code: 518; and is in Time Zone: Eastern
+It's in County: Greene, and has population: 42100
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 21 comparisons to answer this query
+
+9. Joe, Montana
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Joe, Montana
+Sorry, the town and state you input does not exist.
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 22 comparisons to answer this query
+
+10. Romance, Arkansas
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Romance, Arkansas
+Sorry, the town and state you input does not exist.
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 16 comparisons to answer this query
+
+11. Mars, PA
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Mars, PA
+Query: Mars, PA
+Found...
+Town: Mars, PA owns zipCodes: 16046; has Area Code: 412; and is in Time Zone: Eastern
+It's in County: Butler, and has population: 151100
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 14 comparisons to answer this query
+
+12. Nuttsville, VA
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Nuttsville, VA
+Query: Nuttsville, VA
+Found...
+Town: Nuttsville, VA owns zipCodes: 22528; has Area Code: 804; and is in Time Zone: Eastern
+It's in County: Lancaster, and has population: 11100
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 17 comparisons to answer this query
+
+13. Rough and Ready, CA
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Rough and Ready, CA
+Query: Rough and Ready, CA
+Found...
+Town: Rough And Ready, CA owns zipCodes: 95975; has Area Code: 916; and is in Time Zone: Pacific
+It's in County: Nevada, and has population: 71100
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 14 comparisons to answer this query
+
+14. Dynamite, WA
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Dynamite, WA
+Sorry, the town and state you input does not exist.
+Do you want me to search again?
+Please input n for no and y for yes.
+y
+It takes 32 comparisons to answer this query
+
+15. Good Grief, Idaho
+
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Good Grief, Idaho
+Sorry, the town and state you input does not exist.
+Do you want me to search again?
+Please input n for no and y for yes.
+n
+It takes 33 comparisons to answer this query
+
+Below is the output for Assignment 6:
+
+The average number of comparisons needed to answer a query is:
+(15 + 29 + 16 + 21 + 24 + 33 + 30 + 21 + 22 + 16 + 14 + 17 + 14 + 32 + 33)/15 = 22.47
+
+The average number of comparisons needed to answer a successful query is:
+(15 + 29 + 16 + 21 + 24 + 30 + 21 + 14 + 17 + 14)/10 = 20.1
+
+The average number of comparisons needed to answer an unsuccessful query is:
+(33 + 22 + 16 + 32 + 33)/5 = 27.2
+
+Below is the output for Assignment 4:
+
+The average number of comparisons needed to answer a query is:
+(38383 + 7761 + 611 + 8071 + 41914 + 43364 + 43090 + 4758 + 43364 + 32308 + 6790 + 9648 + 41341 + 43364 + 43364)/15 = 27196.73333333
+
+The average number of comparisons needed to answer a successful query is:
+(38383 + 7761 + 611 + 8071 + 41914 + 43090 + 4758 + 32308 + 6790 + 9648 + 41341)/11 = 21317.72727272
+
+The average number of comparisons needed to answer an unsuccessful query is:
+4 * 43364/4 = 43364
+
+After comparing the number of comparisons in Assignment 4 to the one in Assignment 6, we can conclude that the Binary Tree is significantly faster than the linear search.

@@ -1,0 +1,117 @@
+Part #2:
+
+wc120-dhcp-172:src Xinyue$ javac PlaceBST.java
+wc120-dhcp-172:src Xinyue$ java PlaceBST
+/******  Adding places...  ******/
+Doing a preOrder traversal:
+Cambridge
+Bryn Mawr
+Boring
+Crapo
+Xi'an
+Hell
+Dynamite
+Good Grief
+Walla Walla
+Surprise
+Joseph
+Romance
+Mars
+Nuttsville
+Rough and Ready
+
+Doing a postOrder traversal:
+Boring
+Bryn Mawr
+Good Grief
+Dynamite
+Nuttsville
+Mars
+Rough and Ready
+Romance
+Joseph
+Surprise
+Walla Walla
+Hell
+Xi'an
+Crapo
+Cambridge
+
+Doing an inOrder traversal:
+Boring
+Bryn Mawr
+Cambridge
+Crapo
+Dynamite
+Good Grief
+Hell
+Joseph
+Mars
+Nuttsville
+Romance
+Rough and Ready
+Surprise
+Walla Walla
+Xi'an
+
+The current size of the tree is: 15
+The current height of the tree is: 10
+
+/******  Clearing the tree...  ******/
+
+After clearing the tree, the current size of the tree is: 0
+After clearing the tree, the current height of the tree is: 0
+
+/******  Adding places in ascending order...  ******/
+After adding in ascending order, the new size of the tree is: 15
+After adding in ascending order, the new height of the tree is: 15
+Doing a preOrder traversal:
+Boring
+Bryn Mawr
+Cambridge
+Crapo
+Dynamite
+Good Grief
+Hell
+Joseph
+Mars
+Nuttsville
+Romance
+Rough and Ready
+Surprise
+Walla Walla
+Xi'an
+
+Doing a postOrder traversal:
+Xi'an
+Walla Walla
+Surprise
+Rough and Ready
+Romance
+Nuttsville
+Mars
+Joseph
+Hell
+Good Grief
+Dynamite
+Crapo
+Cambridge
+Bryn Mawr
+Boring
+
+Doing an inOrder traversal:
+Boring
+Bryn Mawr
+Cambridge
+Crapo
+Dynamite
+Good Grief
+Hell
+Joseph
+Mars
+Nuttsville
+Romance
+Rough and Ready
+Surprise
+Walla Walla
+Xi'an

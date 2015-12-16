@@ -1,0 +1,181 @@
+wc120-dhcp-181:Assignment 4 Xinyue$ javac SearchZipCode.java                  
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+
+1. Truth Or Consequences, NM
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Truth Or Consequences, NM
+It takes 38383 comparisons to answer this query
+Query: Truth Or Consequences, NM
+Found...
+Town: Truth Or Consequences, NM, 87901 (Area Code: 505, Time Zone: Mountain)
+County: Sierra, population 9600
+
+2. Jim Thorpe, PA
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Jim Thorpe, PA
+It takes 7761 comparisons to answer this query
+Query: Jim Thorpe, PA
+Found...
+Town: Jim Thorpe, PA, 18229 (Area Code: 717, Time Zone: Eastern)
+County: Carbon, population 54400
+
+3. Boston, MA
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Boston, MA
+It takes 611 comparisons to answer this query
+Query: Boston, MA
+Found...
+Town: Boston, MA, 02100 (Area Code: 617, Time Zone: Eastern)
+County: Suffolk, population 661400
+
+4. Bryn Mawr, PA
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Bryn Mawr, PA
+It takes 8071 comparisons to answer this query
+Query: Bryn Mawr, PA
+Found...
+Town: Bryn Mawr, PA, 19010 (Area Code: 215, Time Zone: Eastern)
+County: Delaware, population 560600
+
+5. Boring, OR
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Boring, OR
+It takes 41914 comparisons to answer this query
+Query: Boring, OR
+Found...
+Town: Boring, OR, 97009 (Area Code: 503, Time Zone: Pacific)
+County: Clackamas, population 256900
+
+6. Hell, MI
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Hell, MI
+It takes 43364 comparisons to answer this query
+Sorry, the town and state you input does not exist.
+
+7. Walla Walla, WA
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Walla Walla, WA
+It takes 43090 comparisons to answer this query
+Query: Walla Walla, WA
+Found...
+Town: Walla Walla, WA, 99362 (Area Code: 509, Time Zone: Pacific)
+County: Walla Walla, population 48000
+
+8. Surprise, NY
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Surprise, NY
+It takes 4758 comparisons to answer this query
+Query: Surprise, NY
+Found...
+Town: Surprise, NY, 12176 (Area Code: 518, Time Zone: Eastern)
+County: Greene, population 42100
+
+9. Joe, MT
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Joe, MT
+It takes 43364 comparisons to answer this query
+Sorry, the town and state you input does not exist.
+
+10. Romance, AR
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Romance, AR
+It takes 32308 comparisons to answer this query
+Query: Romance, AR
+Found...
+Town: Romance, AR, 72136 (Area Code: 501, Time Zone: Central)
+County: White, population 53200
+
+11. Mars, PA
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Mars, PA
+It takes 6790 comparisons to answer this query
+Query: Mars, PA
+Found...
+Town: Mars, PA, 16046 (Area Code: 412, Time Zone: Eastern)
+County: Butler, population 151100
+
+12. Muttsville, VA
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Nuttsville, VA
+It takes 9648 comparisons to answer this query
+Query: Nuttsville, VA
+Found...
+Town: Nuttsville, VA, 22528 (Area Code: 804, Time Zone: Eastern)
+County: Lancaster, population 11100
+
+13. Rough and Ready, CA
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Rough and Ready, CA
+It takes 41341 comparisons to answer this query
+Query: Rough and Ready, CA
+Found...
+Town: Rough And Ready, CA, 95975 (Area Code: 916, Time Zone: Pacific)
+County: Nevada, population 71100
+
+14. Dynamite, WA
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Dynamite, WA
+It takes 43364 comparisons to answer this query
+Sorry, the town and state you input does not exist.
+
+15. Good Grief, ID
+wc120-dhcp-181:Assignment 4 Xinyue$ java SearchZipCode
+There are 43364 entries in the data base.
+Please input the town and state that you want me to search for!
+Please input in the right format separated by a comma, for example Bryn Mawr, PA.
+Good Grief, ID
+It takes 43364 comparisons to answer this query
+Sorry, the town and state you input does not exist.
+
+The average number of comparisons needed to answer a query is:
+(38383 + 7761 + 611 + 8071 + 41914 + 43364 + 43090 + 4758 + 43364 + 32308 + 6790 + 9648 + 41341 + 43364 + 43364)/15 = 27196.73333333
+Note:
+Here I only count one comparison for each query.
+
+The average number of comparisons needed to answer a successful query is:
+(38383 + 7761 + 611 + 8071 + 41914 + 43090 + 4758 + 32308 + 6790 + 9648 + 41341)/11 = 21317.72727272
+
+The average number of comparisons needed to answer an unsuccessful query is:
+4 * 43364/4 = 43364

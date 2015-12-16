@@ -1,0 +1,219 @@
+When the print prints 10 pages per second:
+
+There are 19 tasks in this simulation.
+Cumulative waiting time is 3523 seconds.
+Average waiting time per student is 352 seconds.
+The waiting time for the 1th task is 129 seconds.
+The waiting time for the 2th task is 123 seconds.
+The waiting time for the 3th task is 90 seconds.
+The waiting time for the 4th task is 235 seconds.
+The waiting time for the 5th task is 114 seconds.
+The waiting time for the 6th task is 137 seconds.
+The waiting time for the 7th task is 44 seconds.
+The waiting time for the 8th task is 91 seconds.
+The waiting time for the 9th task is 146 seconds.
+The waiting time for the 10th task is 103 seconds.
+The waiting time for the 11th task is 705 seconds.
+The waiting time for the 12th task is 72 seconds.
+The waiting time for the 13th task is 515 seconds.
+The waiting time for the 14th task is 54 seconds.
+The waiting time for the 15th task is 317 seconds.
+The waiting time for the 16th task is 102 seconds.
+The waiting time for the 17th task is 462 seconds.
+The waiting time for the 18th task is 84 seconds.
+
+There are 18 tasks in this simulation.
+Cumulative waiting time is 3437 seconds.
+Average waiting time per student is 343 seconds.
+The waiting time for the 1th task is 114 seconds.
+The waiting time for the 2th task is 312 seconds.
+The waiting time for the 3th task is 295 seconds.
+The waiting time for the 4th task is 446 seconds.
+The waiting time for the 5th task is 180 seconds.
+The waiting time for the 6th task is 229 seconds.
+The waiting time for the 7th task is 363 seconds.
+The waiting time for the 8th task is 82 seconds.
+The waiting time for the 9th task is 90 seconds.
+The waiting time for the 10th task is 99 seconds.
+The waiting time for the 11th task is 488 seconds.
+The waiting time for the 12th task is 48 seconds.
+The waiting time for the 13th task is 98 seconds.
+The waiting time for the 14th task is 221 seconds.
+The waiting time for the 15th task is 190 seconds.
+The waiting time for the 16th task is 114 seconds.
+The waiting time for the 17th task is 68 seconds.
+
+There are 16 tasks in this simulation.
+Cumulative waiting time is 3566 seconds.
+Average waiting time per student is 356 seconds.
+The waiting time for the 1th task is 380 seconds.
+The waiting time for the 2th task is 57 seconds.
+The waiting time for the 3th task is 18 seconds.
+The waiting time for the 4th task is 70 seconds.
+The waiting time for the 5th task is 129 seconds.
+The waiting time for the 6th task is 411 seconds.
+The waiting time for the 7th task is 331 seconds.
+The waiting time for the 8th task is 108 seconds.
+The waiting time for the 9th task is 160 seconds.
+The waiting time for the 10th task is 170 seconds.
+The waiting time for the 11th task is 129 seconds.
+The waiting time for the 12th task is 422 seconds.
+The waiting time for the 13th task is 85 seconds.
+The waiting time for the 14th task is 994 seconds.
+The waiting time for the 15th task is 102 seconds.
+
+There are 18 tasks in this simulation.
+Cumulative waiting time is 3749 seconds.
+Average waiting time per student is 374 seconds.
+The waiting time for the 1th task is 249 seconds.
+The waiting time for the 2th task is 12 seconds.
+The waiting time for the 3th task is 83 seconds.
+The waiting time for the 4th task is 468 seconds.
+The waiting time for the 5th task is 148 seconds.
+The waiting time for the 6th task is 108 seconds.
+The waiting time for the 7th task is 193 seconds.
+The waiting time for the 8th task is 458 seconds.
+The waiting time for the 9th task is 408 seconds.
+The waiting time for the 10th task is 153 seconds.
+The waiting time for the 11th task is 102 seconds.
+The waiting time for the 12th task is 182 seconds.
+The waiting time for the 13th task is 249 seconds.
+The waiting time for the 14th task is 587 seconds.
+The waiting time for the 15th task is 37 seconds.
+The waiting time for the 16th task is 192 seconds.
+The waiting time for the 17th task is 120 seconds.
+
+There are 21 tasks in this simulation.
+Cumulative waiting time is 3685 seconds.
+Average waiting time per student is 368 seconds.
+The waiting time for the 1th task is 54 seconds.
+The waiting time for the 2th task is 53 seconds.
+The waiting time for the 3th task is 111 seconds.
+The waiting time for the 4th task is 170 seconds.
+The waiting time for the 5th task is 168 seconds.
+The waiting time for the 6th task is 96 seconds.
+The waiting time for the 7th task is 190 seconds.
+The waiting time for the 8th task is 96 seconds.
+The waiting time for the 9th task is 198 seconds.
+The waiting time for the 10th task is 146 seconds.
+The waiting time for the 11th task is 251 seconds.
+The waiting time for the 12th task is 148 seconds.
+The waiting time for the 13th task is 444 seconds.
+The waiting time for the 14th task is 392 seconds.
+The waiting time for the 15th task is 207 seconds.
+The waiting time for the 16th task is 120 seconds.
+The waiting time for the 17th task is 226 seconds.
+The waiting time for the 18th task is 239 seconds.
+The waiting time for the 19th task is 60 seconds.
+The waiting time for the 20th task is 316 seconds.
+
+When the print prints 5 pages per second:
+
+There are 20 tasks in this simulation.
+Cumulative waiting time is 4929 seconds.
+Average waiting time per student is 492 seconds.
+The waiting time for the 1th task is 152 seconds.
+The waiting time for the 2th task is 192 seconds.
+The waiting time for the 3th task is 248 seconds.
+The waiting time for the 4th task is 427 seconds.
+The waiting time for the 5th task is 297 seconds.
+The waiting time for the 6th task is 413 seconds.
+The waiting time for the 7th task is 168 seconds.
+The waiting time for the 8th task is 166 seconds.
+The waiting time for the 9th task is 206 seconds.
+The waiting time for the 10th task is 171 seconds.
+The waiting time for the 11th task is 350 seconds.
+The waiting time for the 12th task is 487 seconds.
+The waiting time for the 13th task is 435 seconds.
+The waiting time for the 14th task is 188 seconds.
+The waiting time for the 15th task is 228 seconds.
+The waiting time for the 16th task is 372 seconds.
+The waiting time for the 17th task is 429 seconds.
+
+There are 21 tasks in this simulation.
+Cumulative waiting time is 4897 seconds.
+Average waiting time per student is 489 seconds.
+The waiting time for the 1th task is 240 seconds.
+The waiting time for the 2th task is 338 seconds.
+The waiting time for the 3th task is 374 seconds.
+The waiting time for the 4th task is 438 seconds.
+The waiting time for the 5th task is 180 seconds.
+The waiting time for the 6th task is 143 seconds.
+The waiting time for the 7th task is 131 seconds.
+The waiting time for the 8th task is 96 seconds.
+The waiting time for the 9th task is 322 seconds.
+The waiting time for the 10th task is 397 seconds.
+The waiting time for the 11th task is 72 seconds.
+The waiting time for the 12th task is 496 seconds.
+The waiting time for the 13th task is 204 seconds.
+The waiting time for the 14th task is 322 seconds.
+The waiting time for the 15th task is 507 seconds.
+The waiting time for the 16th task is 228 seconds.
+The waiting time for the 17th task is 409 seconds.
+
+There are 19 tasks in this simulation.
+Cumulative waiting time is 4915 seconds.
+Average waiting time per student is 491 seconds.
+The waiting time for the 1th task is 240 seconds.
+The waiting time for the 2th task is 316 seconds.
+The waiting time for the 3th task is 201 seconds.
+The waiting time for the 4th task is 199 seconds.
+The waiting time for the 5th task is 108 seconds.
+The waiting time for the 6th task is 263 seconds.
+The waiting time for the 7th task is 199 seconds.
+The waiting time for the 8th task is 376 seconds.
+The waiting time for the 9th task is 516 seconds.
+The waiting time for the 10th task is 585 seconds.
+The waiting time for the 11th task is 128 seconds.
+The waiting time for the 12th task is 303 seconds.
+The waiting time for the 13th task is 267 seconds.
+The waiting time for the 14th task is 193 seconds.
+The waiting time for the 15th task is 361 seconds.
+The waiting time for the 16th task is 119 seconds.
+The waiting time for the 17th task is 191 seconds.
+The waiting time for the 18th task is 350 seconds.
+
+There are 21 tasks in this simulation.
+Cumulative waiting time is 6484 seconds.
+Average waiting time per student is 648 seconds.
+The waiting time for the 1th task is 180 seconds.
+The waiting time for the 2th task is 310 seconds.
+The waiting time for the 3th task is 208 seconds.
+The waiting time for the 4th task is 48 seconds.
+The waiting time for the 5th task is 175 seconds.
+The waiting time for the 6th task is 303 seconds.
+The waiting time for the 7th task is 447 seconds.
+The waiting time for the 8th task is 403 seconds.
+The waiting time for the 9th task is 616 seconds.
+The waiting time for the 10th task is 180 seconds.
+The waiting time for the 11th task is 350 seconds.
+The waiting time for the 12th task is 516 seconds.
+The waiting time for the 13th task is 401 seconds.
+The waiting time for the 14th task is 470 seconds.
+The waiting time for the 15th task is 429 seconds.
+The waiting time for the 16th task is 330 seconds.
+The waiting time for the 17th task is 328 seconds.
+The waiting time for the 18th task is 375 seconds.
+The waiting time for the 19th task is 211 seconds.
+The waiting time for the 20th task is 204 seconds.
+
+There are 22 tasks in this simulation.
+Cumulative waiting time is 5397 seconds.
+Average waiting time per student is 539 seconds.
+The waiting time for the 1th task is 479 seconds.
+The waiting time for the 2th task is 204 seconds.
+The waiting time for the 3th task is 381 seconds.
+The waiting time for the 4th task is 789 seconds.
+The waiting time for the 5th task is 319 seconds.
+The waiting time for the 6th task is 48 seconds.
+The waiting time for the 7th task is 192 seconds.
+The waiting time for the 8th task is 132 seconds.
+The waiting time for the 9th task is 219 seconds.
+The waiting time for the 10th task is 102 seconds.
+The waiting time for the 11th task is 108 seconds.
+The waiting time for the 12th task is 229 seconds.
+The waiting time for the 13th task is 385 seconds.
+The waiting time for the 14th task is 285 seconds.
+The waiting time for the 15th task is 383 seconds.
+The waiting time for the 16th task is 496 seconds.
+The waiting time for the 17th task is 646 seconds.
